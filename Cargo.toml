@@ -1,7 +1,8 @@
 [package]
-name = "dummy"
-version = "0.0.0"
-edition = "2021"
+name = "week-2"
+version = "0.1.0"
+edition = "2025"
+Authors = ["Anders Ragnar <Ragnar.anders@outlook.com"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
